@@ -34,8 +34,8 @@ For deployment to GitHub Pages:
 
 ## Contact
 
-- **Email**: contact@rananisar.com
-- **Phone**: +123 456 7890
+- **Email**: rananisarsb51214@gmail.com
+- **Phone**: +923235052148
 - **Location**: Available for Remote Projects
 
 ## License
