@@ -34,14 +34,83 @@ For deployment to GitHub Pages:
 
 ## Contact
 
-- **Email**: contact@rananisar.com
-- **Phone**: +123 456 7890
+- **Email**: nisarrsna@email.com
+- **Phone**: 03235052148
 - **Location**: Available for Remote Projects
 
 ## License
 
 This project is licensed under the terms specified in the LICENSE file.
 
+---# NISAR AI Studio
+
+🚀 An open-source Super AI Toolbox for building, comparing, and orchestrating AI models, agents, prompts, workflows, automation, and developer tools.
+
+## Overview
+
+NISAR AI Studio is designed to provide a unified workspace for AI creators, developers, researchers, and businesses. It combines multiple AI capabilities into a single platform, making it easy to build, test, compare, and automate AI-powered applications.
+
+## Features
+
+- 🤖 Multi-model AI support
+- 🧠 AI agent orchestration
+- 💬 Chat interface
+- ✨ Prompt library and management
+- 🔄 Workflow automation
+- 📄 Document and file analysis
+- 🖼️ Image generation and vision
+- 🎙️ Speech-to-text and text-to-speech
+- 🌐 Web search integration
+- 📊 AI response comparison
+- 🔌 Plugin and MCP support
+- ⚡ API integrations
+- 👥 Team workspaces
+- 🔒 Authentication and security
+- 📈 Analytics and usage tracking
+- ☁️ Cloud-ready architecture
+
+## Technology Stack
+
+- Next.js
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+- Tailwind CSS
+- Vercel
+- OpenAI
+- Google Gemini
+- Anthropic Claude
+- xAI Grok
+- DeepSeek
+- MCP (Model Context Protocol)
+
+## Vision
+
+Build one platform where users can access, compare, automate, and manage the world's leading AI models through a modern and intuitive interface.
+
+## Roadmap
+
+- Multi-model chat
+- AI agent marketplace
+- Prompt marketplace
+- Workflow builder
+- Team collaboration
+- Mobile apps
+- Browser extension
+- Desktop application
+- Enterprise features
+
+## Contributing
+
+Contributions, bug reports, feature requests, and discussions are welcome.
+
+## License
+
+Choose the license that fits your project (MIT, Apache-2.0, or AGPL-3.0).
+
 ---
+
+Made with ❤️ by the NISAR AI Studio community.
 
 © 2025 Rana Nisar. All rights reserved.
