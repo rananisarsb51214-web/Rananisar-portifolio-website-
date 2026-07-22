@@ -34,14 +34,45 @@ For deployment to GitHub Pages:
 
 ## Contact
 
-- **Email**: contact@rananisar.com
-- **Phone**: +123 456 7890
+- **Email**: rananisarsb51214@gmail.com.com
+- **Phone**: +923408060167 
 - **Location**: Available for Remote Projects
 
 ## License
 
 This project is licensed under the terms specified in the LICENSE file.
 
----
+---🚀 Rananisar Portfolio
+
+A next-generation AI-powered portfolio showcasing full-stack development, intelligent automation, cloud engineering, and innovative digital solutions. Built with modern web technologies for speed, scalability, security, and an exceptional user experience.
+
+✨ Highlights
+
+- AI-Powered Interactive Portfolio
+- Modern Responsive UI/UX
+- Full-Stack Development Showcase
+- Firebase & Google Cloud Integration
+- GitHub Project Explorer
+- AI Automation & Workflow Demos
+- Performance Optimized
+- SEO Friendly
+- Dark/Light Theme Support
+- Contact & Collaboration Hub
+- Analytics Dashboard
+- Secure, Scalable Architecture
+
+🛠 Tech Stack
+
+- HTML5, CSS3, JavaScript, TypeScript
+- React / Next.js
+- Node.js
+- Firebase
+- Google Cloud Platform
+- REST APIs
+- Git & GitHub
+- AI Integrations
+- Responsive Design
+
+Designed to demonstrate engineering excellence, automation-first workflows, cloud-native architecture, and production-ready software development while serving as a professional portfolio for clients, recruiters, and collaborators worldwide.
 
 © 2025 Rana Nisar. All rights reserved.
